@@ -1,3 +1,5 @@
-# Demo
-- Learn github
+ #Demo
 
+- Learning about Github
+
+1. I know how to push modifications to Github
